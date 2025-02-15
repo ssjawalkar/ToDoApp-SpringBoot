@@ -19,6 +19,9 @@ TodoApp is a simple task management application built using Spring Boot, Spring 
 - **Bootstrap** - Frontend styling
 - **MySQL** - Relational database
 
+![image](https://github.com/user-attachments/assets/93ca2e47-5d4d-4151-b0b4-185853a9113d)
+
+https://github.com/user-attachments/assets/badd4009-9d37-4fc1-86d6-1f3bd7e073b1
 
 
 ## Setup Instructions
